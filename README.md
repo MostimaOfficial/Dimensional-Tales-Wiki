@@ -1,2 +1,2 @@
 # Dimensional Tales Wiki
-Wiki for my mod, Dimensional Tales.
+Wiki for my mod, Dimensional Tales!
